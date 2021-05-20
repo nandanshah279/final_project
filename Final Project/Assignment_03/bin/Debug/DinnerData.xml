@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Table>
+    <Flag>True</Flag>
+    <Name>a</Name>
+    <Number>234234534</Number>
+    <People>345</People>
+    <NewMainIndexString>0</NewMainIndexString>
+  </Table>
+  <Table>
+    <Flag>True</Flag>
+    <Name>b</Name>
+    <Number>2345</Number>
+    <People>2345</People>
+    <NewMainIndexString>1</NewMainIndexString>
+  </Table>
+</ArrayOfTable>
